@@ -25,5 +25,5 @@ Supported device: ( 0x1130, 0x0202 ) or sku.23789 (DealExtreme)
  License
 ---------
 
-The linect kernel module is distributed under the GPL licence.
+PanicButton Daemon is distributed under the GPL licence.
 
